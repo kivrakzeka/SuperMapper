@@ -7,12 +7,11 @@
     <authors>Servet Atasoy</authors>
     <owners>Kıvrak Zeka</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>Mapper for every class. Simple and free! https://github.com/kivrakzeka/SuperMapper </description>
-    <releaseNotes>
-      
-    </releaseNotes>
-    <copyright>Copyright Servet Atasoy © 2018</copyright>
-    <tags></tags>
+    <projectUrl>https://github.com/kivrakzeka/SuperMapper</projectUrl>
+    <description>Mapper for every class. Simple and free!</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright Kıvrak Zeka © 2018</copyright>
+    <tags>mapper class converter</tags>
   </metadata>
 
   <files>
