@@ -5,9 +5,9 @@
     <version>1.0.0</version>
     <title>SuperMapper</title>
     <authors>Servet Atasoy</authors>
-    <owners>Servet Atasoy</owners>
+    <owners>Kıvrak Zeka</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>Mapper for every class. Simple and free!</description>
+    <description>Mapper for every class. Simple and free! https://github.com/kivrakzeka/SuperMapper </description>
     <releaseNotes>
       
     </releaseNotes>

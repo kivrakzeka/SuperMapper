@@ -15,7 +15,7 @@ namespace SuperMapper
             Type SourceType = typeof(TSource);
             Type TargetType = typeof(TTarget);
 
-            var TargetReturnType = Activator.CreateInstance(typeof(TTarget)); //bunu donecegiz
+            var TargetReturnType = Activator.CreateInstance(typeof(TTarget));
 
             var TargetProperties = TargetType.GetProperties();
             var SourceProperties = SourceType.GetProperties();
