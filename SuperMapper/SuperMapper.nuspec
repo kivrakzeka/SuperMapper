@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>SuperMapper</id>
+    <version>1.0.0</version>
+    <title>SuperMapper</title>
+    <authors>Servet Atasoy</authors>
+    <owners>Servet Atasoy</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Mapper for every class. Simple and free!</description>
+    <releaseNotes>
+      
+    </releaseNotes>
+    <copyright>Copyright Servet Atasoy © 2018</copyright>
+    <tags></tags>
+  </metadata>
+
+  <files>
+    <file src="Attributes\MapperAttribute.cs" target="content" />
+  </files>
+</package>
