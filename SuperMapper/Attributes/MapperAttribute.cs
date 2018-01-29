@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace SuperMapper.Attributes
 {
-    public class MapperAttribute : Attribute
+    public class MappingAttribute : Attribute
     {
         public string FieldName { get; set; }
 
-        public MapperAttribute(string field)
+        public MappingAttribute(string field)
         {
             this.FieldName = field;
         }

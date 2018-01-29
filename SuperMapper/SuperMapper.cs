@@ -23,7 +23,7 @@ namespace SuperMapper
 
             foreach (PropertyInfo item in MappingProps)
             {
-                var FieldAttribute = (MapperAttribute)item.GetCustomAttribute(typeof(MapperAttribute));
+                var FieldAttribute = (MappingAttribute)item.GetCustomAttribute(typeof(MappingAttribute));
 
                 if (FieldAttribute == null)
                     continue;
